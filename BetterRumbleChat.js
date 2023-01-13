@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Rumble Rant TTS
+// @name         Better Rumble Chat
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Read tips on rumble streams out loud using WebSpeech API
-// @author       MrQianHuZi
+// @author       sungorilla2036
 // @match        https://rumble.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.io
 // @grant        none
