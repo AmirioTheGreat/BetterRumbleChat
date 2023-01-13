@@ -2,7 +2,7 @@
 // @name         Better Rumble Chat
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Read tips on rumble streams out loud using WebSpeech API. Make specific keywords or emojis display a custom image instead.
+// @description  Read tips on rumble streams out loud using WebSpeech API
 // @author       sungorilla2036
 // @match        https://rumble.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.io
@@ -15,6 +15,7 @@
         '😆':'https://yt3.ggpht.com/0FLRqpIWPYql08oDl3pYSE_JytvVdSnB8MI4saumn1JeaUa6Boz_9Bvx70QIP3009caHGfHBJA=w48-h48-c-k-nd',
 	'⚾️':'https://yt3.ggpht.com/CT_QFIvY2WfvOIJvLqYoVTDx4tpchXWo5-KiLhPlPqn7HoFknoPBY86NNxq8i44MH2JPvw5m4JQ=w48-h48-c-k-nd',
 	'😔':'https://yt3.ggpht.com/jTUFpfVfjnfTMvCteNf4v2e1_V730fD14fGtgz4c5rU4Yw-VeDRQOw6vIULWMNxalvGXj1NKdA=w48-h48-c-k-nd',
+":LETSGOOO:" "https://cdn.betterttv.net/emote/5f7cd139ce8bc74a94247828/3x",
 	  ":VISION:": "https://yt3.ggpht.com/FUCoZvCR6Kt03oPOpY_1NOQMOEswS5hWKDKSmoQvJal1aAhYq7LvhFDoCmSdQhiSKGsweGqD3A=w24-h24-c-k-nd",
   ":SOLAR:": "https://yt3.ggpht.com/eJmsmD9_wmmltD-ETwSpqcBJdm6856VhK1jL0eMVzblDr6K0HLz6tVRDLMVa40TBCA2mMx3ESg=w24-h24-c-k-nd",
   ":HazWut:": "https://yt3.ggpht.com/xxUTdiUmawMq5gKK1SPvfRYzul5LJXYLh2Vm9Zx0BAfXS4HZEdRxPCnZtyZb55XwXQFOlYtjyQ=w24-h24-c-k-nd",
